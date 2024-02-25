@@ -25,11 +25,10 @@ Welcome to the Smart Calculator project repository! This project is a web-based 
 - Toggle between light and dark mode themes by clicking the theme switch button.
 
 ## Screenshots:
-
-- Light Mode
+### Light Mode
 ![light](https://github.com/abhi-up/Smart-Calculator/assets/77201101/1f71ea09-5345-439d-ae6a-c66e18c588a8)
 
-- Dark Mode
+### Dark Mode
 ![dark](https://github.com/abhi-up/Smart-Calculator/assets/77201101/b49bb1ee-c8ef-4d24-91e9-cee5ebf14250)
 
 ## Credits:
